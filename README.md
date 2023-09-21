@@ -3,7 +3,7 @@
 
 # Proyecto de Análisis de Factores de Riesgo en Problemas Cardíacos
 
-![Imagen de un corazón](enlace_a_tu_imagen_del_corazon.jpg)
+![]([enlace_a_tu_imagen_del_corazon.jpg](https://maiposalud.cl/site/assets/files/1538/cuidado-del-corazon-847x308.jpg))
 
 ## Introducción
 
