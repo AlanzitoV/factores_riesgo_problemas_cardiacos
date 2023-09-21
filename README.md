@@ -18,6 +18,10 @@ Este proyecto tiene como objetivo abordar esta creciente preocupación al examin
 3. Proporcionar información útil y perspicaz a las personas para cuidar la salud.
 4. Fomentar la conciencia sobre la importancia de la prevención y el control de factores de riesgo cardiacos.
 
+##Tecnologias utilizadas
+    Looker Studio
+    Python
+
 ## Conjunto de Datos
 
 Para llevar a cabo este análisis, utilizamos un conjunto de datos compuesto por [mencionar la fuente del conjunto de datos]. Este conjunto de datos contiene información valiosa sobre diversos factores de riesgo, historiales médicos y diagnósticos relacionados con problemas cardíacos.
