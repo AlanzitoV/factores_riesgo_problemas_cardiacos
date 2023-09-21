@@ -40,7 +40,7 @@ En el transcurso de este proyecto, hemos realizado un análisis detallado de los
 
 5. **Consumo de Alcohol y Tabaco**: Es importante destacar que el consumo de alcohol y el hábito de fumar no proporcionaron información relevante en este análisis en relación con el riesgo cardíaco. Esto podría indicar la necesidad de datos adicionales o una mayor precisión en futuros estudios.
 
-Estas observaciones representan solo una parte de nuestros hallazgos, y puedes explorar visualizaciones detalladas en nuestro panel de Looker Studio [proporcionar enlace si está disponible].
+Estas observaciones representan solo una parte de nuestros hallazgos, y puedes explorar visualizaciones detalladas en nuestro panel de [Looker Studio](https://lookerstudio.google.com/reporting/6b778c41-80d0-4b00-9b09-a32eb4522f7f "Looker Studio")
 
 ![](captura.png)
 
