@@ -42,7 +42,7 @@ En el transcurso de este proyecto, hemos realizado un análisis detallado de los
 
 Estas observaciones representan solo una parte de nuestros hallazgos, y puedes explorar visualizaciones detalladas en nuestro panel de Looker Studio [proporcionar enlace si está disponible].
 
-![](Captura Dashboard.png)
+![](captura.png)
 
 
 
