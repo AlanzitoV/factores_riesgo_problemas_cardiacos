@@ -18,7 +18,7 @@ Este proyecto tiene como objetivo abordar esta creciente preocupación al examin
 3. Proporcionar información útil y perspicaz a las personas para cuidar la salud.
 4. Fomentar la conciencia sobre la importancia de la prevención y el control de factores de riesgo cardiacos.
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
     Looker Studio
     Python
 
