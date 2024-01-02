@@ -1,7 +1,7 @@
 
 # Análisis de Factores de Riesgo en Problemas Cardíacos
 
-![](https://maiposalud.cl/site/assets/files/1538/cuidado-del-corazon-847x308.jpg)
+![](captura.png)
 
 ## Introducción
 
@@ -20,10 +20,6 @@ Este proyecto tiene como objetivo abordar esta creciente preocupación al examin
     Looker Studio
     Python
 
-## Conjunto de Datos
-
-Para llevar a cabo este análisis, utilizamos un conjunto de datos compuesto por [mencionar la fuente del conjunto de datos]. Este conjunto de datos contiene información valiosa sobre diversos factores de riesgo, historiales médicos y diagnósticos relacionados con problemas cardíacos.
-
 ## Resultados y Visualizaciones
 
 En el transcurso de este proyecto, hemos realizado un análisis detallado de los datos y hemos identificado importantes tendencias y observaciones relacionadas con los problemas cardíacos. A continuación, destacamos algunas de las conclusiones clave:
@@ -40,7 +36,7 @@ En el transcurso de este proyecto, hemos realizado un análisis detallado de los
 
 Estas observaciones representan solo una parte de nuestros hallazgos, y puedes explorar visualizaciones detalladas en nuestro panel de [Looker Studio](https://lookerstudio.google.com/reporting/6b778c41-80d0-4b00-9b09-a32eb4522f7f "Looker Studio")
 
-![](captura.png)
+![](https://maiposalud.cl/site/assets/files/1538/cuidado-del-corazon-847x308.jpg)
 
 
 
